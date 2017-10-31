@@ -15,7 +15,7 @@
 ## Intel Managment Engine
 
 ### Summaries
-  * (Good Summary of the Problem with Intel ME](https://libreboot.org/faq.html#intel) by libreboot
+  * [Good Summary of the Problem with Intel ME](https://libreboot.org/faq.html#intel) by libreboot
 
 ### Reversing Attempts
   * [Disabling Intel ME 11 via undocumented mode](http://blog.ptsecurity.com/2017/08/disabling-intel-me.html) by Positive Technologies
