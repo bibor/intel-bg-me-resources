@@ -5,6 +5,7 @@
 ### Summaries
 
 ### Official Documentation
+  * [Intel TXT Software Development Guide](https://www.intel.com/content/dam/www/public/us/en/documents/guides/intel-txt-software-development-guide.pdf) by Intel
 
 ### Reversing Attempts
   * [Bypassing Intel Boot Guard](https://embedi.com/blog/bypassing-intel-boot-guard) by Embedi
