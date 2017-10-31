@@ -1,6 +1,6 @@
 site_name: Intel Bootguard Resources
 pages:
     - Intel Bootguard Resources: index.md
-    - linklist: links.md
+    - Linklist: links.md
 
 theme: readthedocs
