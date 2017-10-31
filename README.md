@@ -11,4 +11,4 @@ and to build it run
 
 ## View 
 
-a running instance is loacted at [http://bootguard.doctor]
+a running instance is loacted at http://bootguard.doctor
