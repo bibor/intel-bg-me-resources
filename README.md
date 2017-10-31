@@ -1,4 +1,4 @@
-# Resources for Intel
+# Resources for Intel Bootguard / ME
 
 I want to understand how bootguard works. this is my collection of notes and resources
 
