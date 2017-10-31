@@ -2,3 +2,5 @@ site_name: Intel Bootguard Resources
 pages:
     - Intel Bootguard Resources : index.md
     - linklist: links.md
+
+theme: readthedocs
